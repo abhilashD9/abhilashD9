@@ -4,11 +4,11 @@
 <h3 align="center">A passionate java developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
 
-- 🔭 I’m currently pursuing MCA at VIT
-- 🌱 I’m currently diving deep into Java and honing my skills in **Java Web Services.**
-- 🌐 Exploring **RESTful APIs, SOAP, and microservices architecture to build robust and scalable applications.**
-- 💬 Ask me about **my favorite Java projects and how I approach building efficient web services using Spring Boot!🌐🚀**
-- 📫 How to reach me **abhilashdutta999@gmail.com**
+ 🔭 I’m currently pursuing MCA at VIT
+ 🌱 I’m currently diving deep into Java and honing my skills in **Java Web Services.**
+ 🌐 Exploring **RESTful APIs, SOAP, and microservices architecture to build robust and scalable applications.**
+ 💬 Ask me about **my favorite Java projects and how I approach building efficient web services using Spring Boot!🌐🚀**
+ 📫 How to reach me **abhilashdutta999@gmail.com**
 -----------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
